@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muddasir Ahmed
 
-<!--
-**muddasirahmed-19/muddasirahmed-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Software Engineering Student
 
-Here are some ideas to get you started:
+I build practical, user focused applications and enjoy turning ideas into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Frontend:** HTML - CSS - JavaScript  
+**Backend:** Node.js - Firebase  
+**Languages:** C++ - Python - JavaScript - Dart  
+**Mobile:** Flutter  
+**Database:** Cloud Firestore  
+**Game Development:** Unreal Engine - Godot
+
+### 🚀 Featured Project
+
+**Campus Find:** Campus Lost & Found App  
+Flutter + Firebase (Authentication - Email Verification - Image Uploads - Lost & Found Posts)
+
+### 🌱 Currently Learning
+
+Full-Stack Development - Backend Development - AI/ML
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/muddasir-ahmed-9b1568379/) • Portfolio
+
+---
