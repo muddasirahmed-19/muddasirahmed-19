@@ -1,0 +1,49 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F0EFE9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#CBD5E1" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <circle cx="1080" cy="40" r="180" fill="#1E293B" opacity="0.5"/>
+  <circle cx="60" cy="300" r="140" fill="#1E293B" opacity="0.4"/>
+
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+  <text x="60" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="#F0EFE9">Muddasir Ahmed</text>
+  <text x="60" y="150" font-family="'Segoe UI', Helvetica, sans-serif" font-size="22" fill="#CBD5E1">Full-Stack Developer · Mobile Apps · AI/ML — Pakistan</text>
+
+  <g font-family="'Segoe UI', Helvetica, sans-serif" font-size="16" font-weight="600">
+    <g transform="translate(60,190)">
+      <rect width="90" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="45" y="22" fill="#F0EFE9" text-anchor="middle">Flutter</text>
+    </g>
+    <g transform="translate(160,190)">
+      <rect width="70" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="35" y="22" fill="#F0EFE9" text-anchor="middle">React</text>
+    </g>
+    <g transform="translate(240,190)">
+      <rect width="90" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="45" y="22" fill="#F0EFE9" text-anchor="middle">Node.js</text>
+    </g>
+    <g transform="translate(340,190)">
+      <rect width="95" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="47" y="22" fill="#F0EFE9" text-anchor="middle">Firebase</text>
+    </g>
+    <g transform="translate(445,190)">
+      <rect width="80" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="40" y="22" fill="#F0EFE9" text-anchor="middle">Python</text>
+    </g>
+    <g transform="translate(535,190)">
+      <rect width="65" height="34" rx="8" fill="#1E293B" stroke="rgba(226,228,220,0.16)"/>
+      <text x="32" y="22" fill="#F0EFE9" text-anchor="middle">AI/ML</text>
+    </g>
+  </g>
+</svg>
